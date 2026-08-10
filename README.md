@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on `Smart livestock Monitoring`</br>
-🌱 I’m currently learning golang</br>
+🌱 I’m currently learning nlp</br>
 💬 Message me if you dare</br>
 🐞 If you stare into the bug long enough, The bug stares back at you
 
